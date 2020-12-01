@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/anishathalye/gavel/docs/banner.png" width="450" height="150" alt="Gavel banner">
+# Deprecated
+
+We have developed [HackTJ Live](https://github.com/HackTJ/live), which uses the same algorithm as Gavel. We highly recommend using Live.
+
+---
 
 **Gavel** is a project expo judging system.
 
